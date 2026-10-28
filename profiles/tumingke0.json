@@ -1,7 +1,6 @@
 {
   "slug": "tumingke0",
   "name": "Mingke Tu",
-  "avatar": "https://ripplefocus.github.io/logo.png",
   "bio": "Indie developer building focused, local-only utilities for Android and macOS with zero ads or telemetry.",
   "location": "Shanghai",
   "website": "https://ripplefocus.github.io/en/",
@@ -22,15 +21,12 @@
     {
       "name": "Ripple",
       "description": "Free local-only Android app and short-video blocker with a 15-minute monotonic cooldown and on-device wireless debugging anti-uninstall.",
-      "url": "https://ripplefocus.github.io/en/",
-      "image": "https://ripplefocus.github.io/og-preview.png",
-      "logo": "https://ripplefocus.github.io/logo.png"
+      "url": "https://ripplefocus.github.io/en/"
     },
     {
       "name": "LayoutKeeper",
       "description": "Free open-source macOS menu bar app that saves and restores multi-monitor window positions, Spaces, and per-display brightness.",
-      "url": "https://github.com/tumingke0/LayoutKeeper",
-      "logo": "https://raw.githubusercontent.com/tumingke0/LayoutKeeper/main/docs/icon.png"
+      "url": "https://github.com/tumingke0/LayoutKeeper"
     }
   ]
 }
